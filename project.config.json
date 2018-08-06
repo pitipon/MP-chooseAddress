@@ -11,9 +11,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.2.2",
+	"libVersion": "1.6.5",
 	"appid": "wx7e53f37fb52c2baf",
-	"projectname": "wxlocation",
+	"projectname": "MP-chooseLocation",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
