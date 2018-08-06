@@ -1,2 +1,2 @@
-# MP-Location
-![](https://github.com/pitipon/MP-chooseLocation/screenshot/pic.png)
+# MP-chooseLocation
+![](https://github.com/pitipon/MP-chooseLocation/blob/master/screenshot/pic.png)
