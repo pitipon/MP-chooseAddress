@@ -17,10 +17,10 @@ Page({
       scope: 'scope.userLocation',
       success(res) {
           console.log(33,res)
-          wx.chooseLocation({
-            success: function(res) {
-              console.log(44,res)
-            },
+          wx.openLocation({
+            latitude: 30.64242,
+            longitude: 104.04311,
+            scale: 28
           })
       },
       fail(err) {

@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.6.5",
 	"appid": "wx7e53f37fb52c2baf",
-	"projectname": "MP-chooseLocation",
+	"projectname": "MP-openLocation",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
