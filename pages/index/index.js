@@ -14,13 +14,13 @@ Page({
 
   grantAuthorizeLocation: function () { 
     wx.authorize({
-      scope: 'scope.userLocation',
+      scope: 'scope.address',
       success(res) {
           console.log(33,res)
-          wx.openLocation({
-            latitude: 30.64242,
-            longitude: 104.04311,
-            scale: 28
+          wx.chooseAddress({
+            success: function (res) {
+              console.log(44,res)
+            }
           })
       },
       fail(err) {
